@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hany Eid 👋</h1>
-<h3 align="center">Software Architect · SaaS Founder @ EliteDigitSolutions · Enterprise ECM Team Lead</h3>
+<h3 align="center">Software Architect · Enterprise ECM Team Lead</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

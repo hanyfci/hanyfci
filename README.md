@@ -1,5 +1,3 @@
-# Hany Ahmed Eid
-
 <h1 align="center">Hi, I'm Hany Eid 👋</h1>
 
 <h3 align="center">Technical Team Lead | Enterprise Solutions | IBM ECM | Java & AI</h3>
